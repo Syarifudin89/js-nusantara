@@ -1,0 +1,106 @@
+*{
+padding:0px;
+margin:0px;
+}
+#site-container{
+background-color:;
+width:1000px;
+height:auto;
+margin:10px auto;
+border:0px solid #000;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+#header{
+background-image: url(Saya/Pengertian-Kebudayaan.jpg);
+width:950px;
+height:380px;
+margin:0px auto;
+border:0px solid #000;
+}
+
+#menu ul{ 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+ 	font-weight: bold;
+	background-color: black;
+	width:950px; 
+	height:30px; 
+	margin:5px auto; 
+	border:0px solid #000;
+	list-style-type: none;
+}
+#menu ul li a {
+ text-decoration: none;
+ float: left;
+ display: block;
+ padding: 8px;
+ color: #FFFFFF;
+}
+#menu ul li a:hover {
+ color:#17adf3;
+}
+
+#sidebar-content{
+width:950px;
+height:auto;
+margin:0 auto;
+padding-top: 5px;
+}
+#sidebar{
+	background-color: red;
+float:right;
+width:300px;
+height:auto;
+border:0px solid #000;
+}
+#content{
+float:left;
+width:630px;
+height:auto;
+border:0px solid #000;
+}
+
+#footer{
+background-color: #031c45;
+width:1000px;
+height:120px;
+margin:0px auto;
+border:0px solid #000;
+}
+#isifooter{
+float: left;
+width:240px;
+height:30px;
+border:0px solid #000;
+margin: 10px 0px 5px 2px;
+}
+#isifooters{
+float: left;
+padding: 0px 0px 0px 400px;
+width:700px;
+height:30px;
+border:0px solid #000;
+margin: 10px 0px 5px 2px;
+}
+#gg{
+	margin-right: 5px;
+	float: left;
+	width: 30px;
+	height: 30px;
+}
+#txtfooter{
+color: #b1b1b0;
+text-align: left;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+padding-top: 10px;
+padding-left: 10px;
+}
+.floating{
+clear:both;
+height:0px;
+line-height:0px;
+}
+    
